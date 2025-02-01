@@ -2,7 +2,8 @@ package PractiseIf;
 
 import java.util.Scanner;
 
-public class lab87_multiplecondition {
+public class lab87_multiplication
+{
     public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     {
